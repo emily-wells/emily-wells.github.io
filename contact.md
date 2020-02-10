@@ -4,7 +4,7 @@ layout: default
 ---
 # Thank you for your time !
 
-## If you want to reach out to me, or check any of the really cool things I do online, use the following links
+## If you want to reach out to me, use the following links
 
 <div class="sidenav">
     <a href='/'>Go back</a>

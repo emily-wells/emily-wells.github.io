@@ -3,6 +3,6 @@ collection: EN
 title: Experiences
 link: experiences
 ---
-# Experiences
+# Work Experience
 
 Currently under construction.
