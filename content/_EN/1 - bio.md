@@ -6,6 +6,8 @@ link: about-me
 
 # About me
 
+---
+
 ![Emily Wells](/assets/images/me.jpg){: #me }
 
 

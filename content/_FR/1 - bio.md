@@ -6,6 +6,8 @@ link: à-mon-propos
 
 # À mon propos
 
+---
+
 ![Emily Wells](/assets/images/me.jpg){: #me }
 
 

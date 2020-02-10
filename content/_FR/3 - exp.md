@@ -9,6 +9,7 @@ link: éxperiences
 ---
 
 ## Stagiaire en sensibilisation et recherche sur la pollution plastique
+
 {:.date}
 Octobre 2019 - Présent
 
@@ -16,8 +17,6 @@ Octobre 2019 - Présent
 [WWF-Canada](http://www.wwf.ca/) et [Conservation Corps NL](http://www.ccnl.ca/) - St. John's, TNL Canada
 
 Collaborer avec des partenaires communautaires et industriels afin d'élaborer des stratégies pour réduire durablement la consomption de plastique des entreprises locales.
-
----
 
 ## Animatrice de camp de nature
 
@@ -61,6 +60,16 @@ Septmbre 2014 - Mai 2018
 
 Développer et mener des ateliers basés sur la science pour sensibiliser le public à la conservation environnementale et l'héritage naturel et culturel de Manuels River.
 
+## Personnel de restauration et événementiel (saisonnier)
+
+{:.date}
+Février 2014 - Janvier 2018
+
+{:.institution}
+[Centre d'interprétation de Manuels River](https://manuelsriver.ca/) - CBS, TNL Canada
+
+Coordonner avec les clients pour organiser des événements, ce qui incluait la mise en place d'un espace événementiel, la service de bar, et le nettoyage, entre autres tâches.
+
 ## Guide kayak et interprète marine
 
 {:.date}
@@ -69,7 +78,7 @@ Mai - Août 2016
 {:.institution}
 [Stan Cook Sea Kayaking Adventures](https://www.stancook.ca/) - Cape Broyle, TNL Canada
 
-Raconter l'héritage naturel et culturel de Terre-Neuve et l'Océan Atlantique aux invités internationaux ainsi que maintenir un environnement sécuritaire dans les kayaks.
+Raconter l'héritage naturel et culturel de Terre-Neuve et de l'Océan Atlantique aux invités internationaux ainsi que maintenir un environnement sécuritaire dans les kayaks.
 
 ## Animatrice de camp science
 
@@ -79,7 +88,7 @@ Juin - Août 2014
 {:.institution}
 [Centre d'interprétation de Manuels River](https://manuelsriver.ca/) - CBS, TNL Canada
 
-Animer des activités en collaboration avec des collègues afin de sibiliser les jeunes à la science tout en surveillant leurs comportements.
+Animer des activités en collaboration avec des collègues afin de sensibiliser les jeunes à la science tout en surveillant leurs comportements et en maintenant un environnement sécuritaire, amusant, et encourageant.
 
 ## Animatrice de camp d'été
 
@@ -89,7 +98,7 @@ Juin - Août 2013
 {:.institution}
 [Town of Conception Bay South](https://www.conceptionbaysouth.ca/) - CBS, TNL Canada
 
-Animer des activités diverses et créer un environnement sécuritaire, amusant, et encourageant en collaboration avec des collègues tout en surveillant les comportements des participants.
+Animer des activités diverses et créer un environnement sécuritaire, amusant, et encourageant tout en surveillant les comportements des participants en collaboration avec des collègues.
 
 
 

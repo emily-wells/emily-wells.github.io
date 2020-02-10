@@ -6,6 +6,8 @@ link: éducation
 
 # Éducation
 
+---
+
 ## Baccalauréat Scientifique
 
 {:.date}
@@ -15,8 +17,6 @@ Mai 2018
 Université Memorial - St. John's, TNL
 
 Majeur en biologie, spécialisé conservation et écologie, et mineure en français
-
----
 
 ## Diplôme d'études secondaires
 

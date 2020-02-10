@@ -6,6 +6,8 @@ link: education
 
 # Education
 
+---
+
 ## Bachelor of Science
 
 {:.date}
@@ -15,8 +17,6 @@ May 2018
 Memorial University - St. John's, NL
 
 Major Biology, specialized in Ecology and Conservation, and minor in French.
-
----
 
 ## High School Diploma
 {:.date}
