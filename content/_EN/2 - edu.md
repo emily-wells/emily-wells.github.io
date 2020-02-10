@@ -9,20 +9,19 @@ link: education
 ## Bachelor of Science
 
 {:.date}
-expected June 2021.
+May 2018
 
 {:.institution}
-Memorial University of Newfoundland.
+Memorial University - St. John's, NL
 
-Major in Computer Science - Smart Systems.
+Major Biology, specialized in Ecology and Conservation, and minor in French.
 
 ---
 
-## Baccalauréat Scientifique - Baccalaureate of Sciences
+## High School Diploma
 {:.date}
-June 2017
+June 2013
 
 {:.institution}
-Lycée Français de Tananarive
+Holy Spirit High School - CBS, NL
 
-Specialization in Information Technologies (Informatique et Sciences du Numérique), Ancient Greek and rock-climbing.

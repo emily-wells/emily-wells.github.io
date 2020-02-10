@@ -6,23 +6,23 @@ link: éducation
 
 # Éducation
 
-## Bachelor de Science
+## Baccalauréat Scientifique
 
 {:.date}
-attendu 2021.
+Mai 2018
 
 {:.institution}
-Memorial University of Newfoundland.
+Université Memorial - St. John's, TNL
 
-Majeur en Sciences Informatiques, spécialisé Système Intelligents.
+Majeur en biologie, spécialisé conservation et écologie, et mineure en français
 
 ---
 
-## Baccalauréat Scientifique 
+## Diplôme d'études secondaires
+
 {:.date}
-Juin 2017
+Juin 2013
 
 {:.institution}
-Lycée Français de Tananarive
+Holy Spirit High School - CBS, TNL
 
-Spécialité Informatique et Sciences du Numérique, option Grec Ancien et Escalade.

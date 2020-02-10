@@ -6,11 +6,12 @@ link: à-mon-propos
 
 # À mon propos
 
-![Sohil Pramij](/assets/images/me_resized.jpg){: #me }
+![Emily Wells](/assets/images/me.jpg){: #me }
 
 
-Je suis un étudiant international à la [Memorial University of Newfoundland](https://www.mun.ca).
+Je suis une ancienne élève de [Memorial University of Newfoundland](https://www.mun.ca), actuellement une stagiaire en sensibilisation et recherche sur la pollution plastique avec [WWF-Canada](http://www.wwf.ca/) et [Conservation Corps NL](http://www.ccnl.ca/).
 
-Je suis né et j'ai grandi à [Mahajanga, Madagarscar](https://goo.gl/maps/kgTHfdULKvvChkxm9).
+Je suis née et j'ai grandi à [Conception Bay South, Newfoundland](https://goo.gl/maps/L1VTgUeWwL2wycue6).
 
-Ayant vécu dans un environnement multiculturel et ensuite ayant poursuivi mes études dans le système éducatif français, j'ao eu l'opportunité d'apprendre plusieurs langues, et parle aujourd'hui fluemment le français et l'anglais, l'espagnol et le gujrati à un niveau intermédiaire, et le hindi et malgache à un niveau débutant.s
+Mon travail est principalement spécialisé dans la sensibilisation et la recherche environnementales. Je suis bilingue en anglais et en français et je connais la langue des signes américaine (ASL) au niveau débutant.
+
