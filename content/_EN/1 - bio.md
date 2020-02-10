@@ -6,7 +6,7 @@ link: about-me
 
 # About me
 
-![Emily Wells](/assets/images/me_resized.jpg){: #me }
+![Emily Wells](/assets/images/me.jpg){: #me }
 
 
 I am an alumna of [Memorial University of Newfoundland](https://www.mun.ca), currently a Plastic Pollution Outreach and Research intern with [WWF-Canada](http://www.wwf.ca/) and [Conservation Corps NL](http://www.ccnl.ca/).
