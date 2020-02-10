@@ -69,14 +69,3 @@ p {
 #invertedmode {
     float: right;
     margin: 0; }
-
-.shitpostW:hover::after {
-    content: " I'm Hackerman";
-    color: #f7f7f7
-}
-
-.shitpostB:hover::after {
-    content: " I'm Hackerman!";
-    color: #1a1a1a
-
-}
